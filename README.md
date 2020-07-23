@@ -2,7 +2,7 @@
 
 Hi, I'm **Sujith Kumar** from India!
 
-I work as a Full Stack Engineer @pudding
+I work as a Full Stack Engineer [@Pudding](https://pudding.app/)
 
 - 🔭 Fan boy of organizing code ...
 - 💬 Ask me about Javascript, Vuejs, HTML and CSS
