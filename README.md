@@ -1,5 +1,3 @@
-<img src="https://github.com/SujithJr/SujithJr/blob/master/color-bomb.jpg" alt="Banner" width="1200" height="400"/>
-
 Hi, I'm **Sujith Kumar** from India!
 
 I work as a Full Stack Engineer [@Pudding](https://pudding.app/)
