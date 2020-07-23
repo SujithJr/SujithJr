@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/SujithJr/SujithJr/blob/master/colors.png)
 
 Hi, I'm **Sujith Kumar** from India!
 
