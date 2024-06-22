@@ -1,6 +1,6 @@
 Hi, I'm **Sujith Kumar** from India!
 
-I work as a Full Stack Engineer [@Success](https://www.success.app/)
+I work as a Sr. Product Engineer [@Success (Formerly "PuddingApp")](https://www.success.app/)
 
 - 🔭 Fan boy of organized code
 - 💬 Ask me about Javascript, Vuejs, HTML and CSS
