@@ -1,6 +1,6 @@
 Hi, I'm **Sujith Kumar** from India!
 
-I work as a Sr. Product Engineer / Full stack developer (biased towards frontend) [@Success (Formerly "PuddingApp")](https://www.success.app/)
+I am a Full stack developer (biased towards frontend)
 
 Check out my portfolio and blog at [https://iamsujith.in](https://iamsujith.in)
 
